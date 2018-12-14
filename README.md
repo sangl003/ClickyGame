@@ -1,6 +1,6 @@
 # ClickyGame
 ClickyGame
-
+https://sangl003.github.io/ClickyGame/
 
 The application renders different images to the screen. Each image listens for click events.
 
